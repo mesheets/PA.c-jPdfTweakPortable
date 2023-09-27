@@ -1,5 +1,5 @@
 # PortableApps.com Packaging for jPDF Tweak
-A PortableApps.com package bundler for the jPDF Tweak project that existed at https://jpdftweak.sourceforge.io/
+A [PortableApps.com](https://portableapps.com/) package bundler for the jPDF Tweak project that existed at https://jpdftweak.sourceforge.io/
 
 ## Packaging Steps
 1. Copy icons and icon images to .\App\AppInfo
