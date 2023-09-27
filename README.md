@@ -1,4 +1,4 @@
-# PortableApps.com Portable App Packaging for jPDF Tweak
+# PortableApps.com Packaging for jPDF Tweak
 A PortableApps.com package bundler for the jPDF Tweak project that existed at https://jpdftweak.sourceforge.io/
 
 ## Packaging Steps
